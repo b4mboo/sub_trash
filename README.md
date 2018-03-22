@@ -1,4 +1,4 @@
 sub_trash
 =========
 
-another repository for testing my gems
+another repository for testing my gems!
